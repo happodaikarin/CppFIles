@@ -1,0 +1,4 @@
+/home/happodaikarin/C++ Files/Matematicas discretas/cmake-build-debug/CMakeFiles/OperacionesLogicas.dir
+/home/happodaikarin/C++ Files/Matematicas discretas/cmake-build-debug/CMakeFiles/OperacionLogicasCadenasBits.dir
+/home/happodaikarin/C++ Files/Matematicas discretas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/happodaikarin/C++ Files/Matematicas discretas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

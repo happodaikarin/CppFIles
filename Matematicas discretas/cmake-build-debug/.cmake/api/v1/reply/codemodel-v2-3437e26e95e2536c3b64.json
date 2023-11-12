@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Matematicas_discretas",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OperacionLogicasCadenasBits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperacionLogicasCadenasBits-Debug-4ed4346a9e621a61589f.json",
+					"name" : "OperacionLogicasCadenasBits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OperacionesLogicas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperacionesLogicas-Debug-6a297c6f5c7ead61c07b.json",
+					"name" : "OperacionesLogicas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/happodaikarin/C++ Files/Matematicas discretas/cmake-build-debug",
+		"source" : "/home/happodaikarin/C++ Files/Matematicas discretas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

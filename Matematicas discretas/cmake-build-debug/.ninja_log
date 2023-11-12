@@ -1,0 +1,11 @@
+# ninja log v5
+1	230	1699749589608207100	CMakeFiles/Matematicas_discretas.dir/OperacionesLogicas.cpp.o	36c332fd5b45d272
+0	24	1699751276670146160	build.ninja	876d142ff0141e6
+0	250	1699749381846577535	CMakeFiles/Matematicas_discretas.dir/main.cpp.o	8dbb313c670be06b
+1	272	1699751005359932906	CMakeFiles/Matematicas_discretas.dir/OperacionLogicasCadenasBIts.cpp.o	c9fd452bcb331590
+0	228	1699751291750268953	CMakeFiles/OperacionLogicasCadenasBits.dir/OperacionLogicasCadenasBIts.cpp.o	4f646d25a836650f
+229	341	1699751291862269865	OperacionLogicasCadenasBits	f37d05f0012e6b78
+1	251	1699751323982531335	CMakeFiles/OperacionLogicasCadenasBits.dir/OperacionLogicasCadenasBIts.cpp.o	4f646d25a836650f
+251	378	1699751324110532377	OperacionLogicasCadenasBits	f37d05f0012e6b78
+0	301	1699751391903083970	CMakeFiles/OperacionesLogicas.dir/OperacionesLogicas.cpp.o	60e20544d0053fe0
+301	409	1699751392007084816	OperacionesLogicas	b9a60ac262ea7d30
