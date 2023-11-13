@@ -14,6 +14,7 @@ int busquedaBinaria(const std::vector<int>& lista, int target) {
 
         if (valorMedio == target) {
             return medio;
+            break;
         } else if (valorMedio < target) {
             bajo = medio + 1;
         } else {
